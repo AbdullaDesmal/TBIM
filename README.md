@@ -2,8 +2,8 @@
 This repository shows the implementation of the Trained Born Iterative Method (TBIM), in the reference below, applied for electromagnetic imaging.
 
 The repositry includes two folders:
-  1) Matlab: Matlab folder to generate the training, validation, and testing set. 
-  2) Python: To traine the TBIM model using Pytorch 1.8.1 cuda. It also consist the pre-trained model used in the reference below. 
+  1) Matlab: Matlab folder to generate the training, validation, and testing sets. 
+  2) Python: To traine the TBIM model using Pytorch 1.8.1, cuda version. It also consist the pre-trained model used in the reference below. 
 The file "TBIM_slides.pdf" consist of presentation slides for the approach. 
 
 # Matlab
