@@ -22,8 +22,7 @@ The following files are created under the Matlab folder:
 
 
 
-# Cite this work:
- 
+# Cite this work
 @article{desmal2022trained,  
   title={A Trained Iterative Shrinkage Approach Based on Born Iterative Method for Electromagnetic Imaging},  
   author={Desmal, Abdulla},  
