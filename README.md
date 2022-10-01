@@ -1,5 +1,5 @@
 # TBIM
-This repository shows the implementation of the Trained Born Iterative Method (TBIM) in the reference below applied for electromagnetic imaging.
+This repository shows the implementation of the Trained Born Iterative Method (TBIM), in the reference below, applied for electromagnetic imaging.
 
 The repositry includes two folders:
   1) Matlab: Matlab folder to generate the training, validation, and testing set. 
