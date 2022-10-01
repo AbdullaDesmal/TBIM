@@ -6,6 +6,6 @@ The repositry includes two folders:
   2) Python: To traine the TBIM model using Pytorch 1.8.1 cuda
 
 
-#Matlab
+# Matlab
 The following files are created under the Matlab folder:
   1) 
