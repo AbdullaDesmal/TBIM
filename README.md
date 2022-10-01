@@ -21,4 +21,12 @@ The following files are created under the Matlab folder:
   2) TrainTBIM.ipynb : To trained the TBIM as desciped in the artical. The data file "dataForPythonBIMcmplx25dB.mat" is needed, that shall be generated from Matlab as explained above. 
 
 
- 
+
+ To cite this work:
+ @article{desmal2022trained,
+  title={A Trained Iterative Shrinkage Approach Based on Born Iterative Method for Electromagnetic Imaging},
+  author={Desmal, Abdulla},
+  journal={IEEE Transactions on Microwave Theory and Techniques},
+  year={2022},
+  publisher={IEEE}
+}
