@@ -1,6 +1,6 @@
 # TBIM
 This repository shows the implementation of the Trained Born Iterative Method (TBIM) applied for electromagnetic imaging in the reference below.  
-Keywords: Born Iterative Method (BIM), trained regularization, CNN, machine learning, deep learning, electromagnetic imaging (EMI), Iterative shrinkage algorithms (ISTA), trained iterative shrinkage algorithm, and inverse scattering problem. 
+Keywords: Born Iterative Method (BIM), trained regularization, CNN, machine learning, deep learning, electromagnetic imaging (EMI), Iterative shrinkage algorithms (ISTA), trained iterative shrinkage algorithm, and inverse scattering problems (ISP). 
 
 The repository includes two folders:
   1) Matlab: Matlab folder to generate the training, validation, and testing sets. 
